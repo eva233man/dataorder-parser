@@ -1,6 +1,6 @@
-package com.sitech.acctmgr.dataorder.config;
+package com.hisporter.dataorder.config;
 
-import com.sitech.acctmgr.dataorder.DataType;
+import com.hisporter.dataorder.DataType;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowCallbackHandler;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;

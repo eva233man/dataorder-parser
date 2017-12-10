@@ -1,10 +1,10 @@
-package com.sitech.acctmgr.dataorder;
+package com.hisporter.dataorder;
 
 import com.alibaba.fastjson.JSONObject;
-import com.sitech.acctmgr.dataorder.config.ColumnConfigureDefinition;
-import com.sitech.acctmgr.dataorder.config.ConfigureDefinition;
-import com.sitech.acctmgr.dataorder.data.JsonRecord;
-import com.sitech.acctmgr.dataorder.data.JsonTable;
+import com.hisporter.dataorder.config.ColumnConfigureDefinition;
+import com.hisporter.dataorder.config.ConfigureDefinition;
+import com.hisporter.dataorder.data.JsonRecord;
+import com.hisporter.dataorder.data.JsonTable;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 import java.sql.SQLException;

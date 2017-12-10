@@ -1,7 +1,7 @@
-package com.sitech.acctmgr.dataorder;
+package com.hisporter.dataorder;
 
-import com.sitech.acctmgr.dataorder.config.ConfigureDefinition;
-import com.sitech.acctmgr.dataorder.data.JsonTable;
+import com.hisporter.dataorder.config.ConfigureDefinition;
+import com.hisporter.dataorder.data.JsonTable;
 
 /**
  * 单表数据解析加执行

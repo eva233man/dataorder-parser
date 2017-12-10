@@ -1,6 +1,6 @@
 package com.example;
 
-import com.sitech.acctmgr.dataorder.data.JsonData;
+import com.hisporter.dataorder.data.JsonData;
 import org.junit.Test;
 
 /**

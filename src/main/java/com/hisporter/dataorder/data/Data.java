@@ -1,4 +1,4 @@
-package com.sitech.acctmgr.dataorder.data;
+package com.hisporter.dataorder.data;
 
 /**
  * 同步的数据

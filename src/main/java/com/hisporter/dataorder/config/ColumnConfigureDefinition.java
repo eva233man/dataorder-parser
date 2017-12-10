@@ -1,6 +1,6 @@
-package com.sitech.acctmgr.dataorder.config;
+package com.hisporter.dataorder.config;
 
-import com.sitech.acctmgr.dataorder.DataType;
+import com.hisporter.dataorder.DataType;
 
 /**
  * 字段级配置定义类

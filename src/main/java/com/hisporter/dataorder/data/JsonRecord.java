@@ -1,4 +1,4 @@
-package com.sitech.acctmgr.dataorder.data;
+package com.hisporter.dataorder.data;
 
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.annotation.JSONField;

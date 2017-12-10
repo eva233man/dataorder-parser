@@ -1,4 +1,4 @@
-package com.sitech.acctmgr.dataorder;
+package com.hisporter.dataorder;
 
 /**
  * 数据字段的类型
